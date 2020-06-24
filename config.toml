@@ -95,7 +95,7 @@ enableEmoji = true
       # site description
       description = "About Sheng Tai website"
       # site keywords
-      keywords = ["Sheng Tai", "陳昇泰", "web", "js", "react", "python"]
+      keywords = ["Sheng Tai", "陳昇泰", "昇泰", "web", "js", "react", "python"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
@@ -440,7 +440,7 @@ enableEmoji = true
       Digg = false
       Stumbleupon = false
       Flipboard = false
-      Weibo = true
+      Weibo = false
       Renren = false
       Myspace = false
       Blogger = false
