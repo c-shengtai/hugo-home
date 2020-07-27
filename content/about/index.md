@@ -22,6 +22,7 @@ draft: false
 - SQL
 - TypeScript
 - Vue/Vuex
+- Git
 
 #### 在學經歷
 
