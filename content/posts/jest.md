@@ -1,7 +1,6 @@
 ---
 title: "Jest"
 date: 2020-07-27T22:39:02+08:00
-draft: true
 ---
 
 ## Jest
